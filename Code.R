@@ -1,3 +1,8 @@
+#Since this is a binary classification problem, I have first used logistic regression to predict if a person will survive or not.
+#Then i have used Random forest classification to predict the survival chances
+
+
+
 TITANIC – R
 
 install.packages('xgboost')
